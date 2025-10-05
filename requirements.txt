@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+pyqt5
+cx-freeze
+pyinstaller
+openpyxl
